@@ -8,6 +8,7 @@ public class MedicionesTemperaturas
 {
     /**
      * Contiene las mediciones de temperaturas.
+     * autor:prii
      */
     private ArrayList<Integer> registros;
     
